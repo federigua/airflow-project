@@ -1,2 +1,6 @@
 project:
     name: airflow-project
+webserver:
+  port: 8081
+postgres:
+  port: 5435
